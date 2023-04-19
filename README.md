@@ -26,9 +26,9 @@ If you have additional material (pictures, topologies), please save them in the 
 
 ### Plain text
 
-Your name here: 
-Student number: 
-Student group: 
+Your name here: Arjane Kerkhoven
+Student number: AD1945
+Student group: K2023 Digiosaajat
 
 ### Image
 
