@@ -1,5 +1,14 @@
 # A template repository for Data Networks course exercise documentation
 
+## This course is finished
+
+## Learning how to create and use virtual networks using Lubuntu and Virtual Box
+These assignments are from the Data Networks course of the 30 credit Digiosaaja open studies in JAMK. Each assignment focusses on increasingly complicated network creation skills and includes topologies and screenshots.
+
+
+
+## How to create the documentation for this course
+
 Please write your documentation the following markdowns created as templates under the `/documentation/` -folder.
 
 - [E01.md](/documentation/E01.md)
