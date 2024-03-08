@@ -1,4 +1,4 @@
-# A template repository for Data Networks course exercise documentation
+# Data Networks course exercise documentation
 
 ## This course is finished
 
@@ -24,7 +24,6 @@ If you have additional material (pictures, topologies), please save them in the 
 ### Plain text
 
 Your name here: Arjane Kerkhoven
-Student number: AD1945
 Student group: K2023 Digiosaajat
 
 ### Image
